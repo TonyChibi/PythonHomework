@@ -1,4 +1,4 @@
 name;surname;number;comments
-peter;pater;12;the peterpater
 bob;bro;44;error
 charles;fon;12321;bethowen
+bob;bro;1231;qwqr

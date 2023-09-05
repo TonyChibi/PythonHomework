@@ -65,8 +65,9 @@ def Book_manager(path):
 
     def seek_messege(result):
         print("\nHere is what I've found:")
-        for i in range (1,len(result)):
-            print(f'{i}: {result[i-1].replace(";", "  ")}')
+        for i in range (0,len(result)):
+            print(len(result))
+            print(f'{i+1}: {result[i].replace(";", "  ")}')
         
 
     def new():
